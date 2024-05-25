@@ -1,0 +1,26 @@
+/* src/toastStyles.css */
+.Toastify__toast {
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  font-family: "Arial", sans-serif;
+}
+
+.Toastify__toast--success {
+  background-color: #38a169;
+  color: white;
+}
+
+.Toastify__toast--error {
+  background-color: #e53e3e;
+  color: white;
+}
+
+.Toastify__toast--info {
+  background-color: #3182ce;
+  color: white;
+}
+
+.Toastify__toast--warning {
+  background-color: #dd6b20;
+  color: white;
+}
